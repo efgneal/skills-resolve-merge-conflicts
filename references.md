@@ -1,1 +1,3 @@
-#CONFLICT CONFLICT CONFLICT
+# References
+
+* octocat 1 😈
